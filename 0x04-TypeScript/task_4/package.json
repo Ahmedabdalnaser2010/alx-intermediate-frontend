@@ -1,0 +1,19 @@
+{
+    "name": "task_4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.15.21",
+        "@typescript-eslint/eslint-plugin": "^2.4.0",
+        "@typescript-eslint/parser": "^2.4.0",
+        "typescript": "^5.8.3"
+    }
+}
